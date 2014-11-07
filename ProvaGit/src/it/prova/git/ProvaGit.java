@@ -4,6 +4,6 @@ public class ProvaGit
 {
 	public static final void main(String[] args)
 	{
-		
+		System.out.println("");
 	}
 }

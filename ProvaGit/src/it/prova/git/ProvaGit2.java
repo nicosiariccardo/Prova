@@ -7,5 +7,4 @@ public class ProvaGit2
 	{
 		System.out.println("Ciao mondo");
 	}
-	
 }

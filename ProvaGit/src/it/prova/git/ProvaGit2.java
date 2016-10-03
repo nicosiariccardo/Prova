@@ -11,5 +11,7 @@ public class ProvaGit2
 		System.out.println("Aggiungo stash senza conflitto...con conflitto");
 		
 		System.out.println("Modifica da remoto");
+		
+		System.out.println("Conflitto con remoto");
 	}
 }

@@ -9,5 +9,7 @@ public class ProvaGit2
 		System.out.println("Ciao mondo commit post stash ramo!!!");
 		
 		System.out.println("Aggiungo stash senza conflitto...con conflitto");
+		
+		System.out.println("Modifica da remoto");
 	}
 }

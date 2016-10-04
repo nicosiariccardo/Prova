@@ -24,6 +24,7 @@ public class ProvaGit2
 		
 		System.out.println("Modifica da remoto 4");
 		
+<<<<<<< Upstream, based on origin/master
 		System.out.println("Modifica da remoto 5");
 		
 		System.out.println("Conflitto con remoto 5");
@@ -33,5 +34,8 @@ public class ProvaGit2
 		System.out.println("Modifica da remoto 7");
 		
 		System.out.println("Modifica da remoto 8");
+=======
+		System.out.println("Conflitto con remoto 5");
+>>>>>>> 09a6091 Conflitto con remoto 5
 	}
 }

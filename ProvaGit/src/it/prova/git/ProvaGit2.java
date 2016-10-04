@@ -21,5 +21,7 @@ public class ProvaGit2
 		System.out.println("No Conflitto");
 		
 		System.out.println("Modifica da remoto 3");
+		
+		System.out.println("Modifica da remoto 4");
 	}
 }

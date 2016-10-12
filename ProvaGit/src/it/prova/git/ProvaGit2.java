@@ -30,6 +30,8 @@ public class ProvaGit2
 		
 		System.out.println("Conflitto con remoto 6");
 		
+		System.out.println("Modifica da remoto 6");
+		
 		System.out.println("Modifica da remoto 7");
 		
 		System.out.println("Modifica da remoto 8");
